@@ -1,7 +1,7 @@
 export const data = [
     {
       "name": "Photo 1",
-      "url": "/images/#1.jpg",
+      "url": "./public/images/#1.jpg",
       "description": "Photo 1 description",
       "date": "2020-01-01",
       "type": "image/jpg",
